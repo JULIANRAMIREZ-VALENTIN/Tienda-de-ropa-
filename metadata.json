@@ -1,0 +1,8 @@
+{
+  "name": "The Julián puffs",
+  "description": "Tienda en línea premium de chamarras acolchadas (puffer jackets) y moda urbana masculina, con vistas integradas para clientes, empleados (gestión Kanban) y administradores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
